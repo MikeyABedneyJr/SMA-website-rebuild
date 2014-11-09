@@ -2,8 +2,9 @@ My first repo on GitHub!
 This was an assignment from a Code Fellows intro to CS/Web Design course.  I chose the website of the high school I have been teaching at (St. Mary's Academy in downtown Portland, Oregon)
 
 The goal was to build a skeleton HTML that reflects the structural organization of their website.
+I often referenced an example provided by Hannah who was a TA of the course who rebuilt the cuteoverload.com website.  Her rebuild can be viewed here: https://gist.github.com/nowhannahwon/411421e65f3c82e871d2
 
-My outline produced by: https://gsnedders.html5.org/outliner/   was the following:
+My outline produced by: https://gsnedders.html5.org/outliner/  is below:
 
 1. ST. MARY'S ACADEMY
     1. Untitled Section
