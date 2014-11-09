@@ -3,7 +3,7 @@ This was an assignment from a Code Fellows intro to CS/Web Design course.  I cho
 
 The goal was to build a skeleton HTML that reflects the structural organization of their website.
 
-My outline produced by: was the following:
+My outline produced by: https://gsnedders.html5.org/outliner/   was the following:
 
 1. ST. MARY'S ACADEMY
     1. Untitled Section
